@@ -11,10 +11,7 @@
       <div id="logo">
         <div id="logo_text">
           <!-- class="logo_colour", allows you to change the colour of the text -->
-          <h1>sydney does things and travels places<span style="color: #550000;"></span></h1>
-          <h2>Black &amp; White Website Template.</h2>
-        </div>
-      </div>
+          <h1>sydney does things and travels places<span style="color:#550000;"></span></h1>
       <div id="menubar">
         <ul id="menu">
           <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
@@ -23,9 +20,6 @@
           <li><a href="page.html">A Page</a></li>
           <li class="selected"><a href="another_page.html">Another Page</a></li>
           <li><a href="contact.html">Contact Us</a></li>
-        </ul>
-      </div>
-    </div>
     <div id="content_header"></div>
     <div id="site_content">
       <div class="sidebar">
